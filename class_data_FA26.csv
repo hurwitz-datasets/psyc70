@@ -1,4 +1,4 @@
-ID,word,condition,recognized,age,gender,english_native,english_fluent
+participant,word,condition,recognized,age,gender,english_native,english_fluent
 R_71bDHlpFTQkHOy4,cherry,orthographic,0,19,Woman,Yes,Yes
 R_71bDHlpFTQkHOy4,speech,orthographic,1,19,Woman,Yes,Yes
 R_71bDHlpFTQkHOy4,lamp,semantic,1,19,Woman,Yes,Yes
