@@ -1,4 +1,4 @@
-participant,age,ethnicity,sex,english_fluent,trial,sentence,noise_condition,correct
+participant,age,ethnicity,gender,english_fluent,trial,sentence,noise_condition,correct
 P001,38,White,Female,No,1,S18,Heavy_Noise,0
 P001,38,White,Female,No,2,S31,Moderate_Noise,0
 P001,38,White,Female,No,3,S34,Heavy_Noise,0

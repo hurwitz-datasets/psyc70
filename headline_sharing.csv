@@ -1,4 +1,4 @@
-participant,age,ethnicity,sex,english_fluent,trial,headline,source_label,shared
+participant,age,ethnicity,gender,english_fluent,trial,headline,source_label,shared
 P001,20,White,Female,Yes,1,H11,Established_Outlet,1
 P001,20,White,Female,Yes,2,H27,Established_Outlet,1
 P001,20,White,Female,Yes,3,H19,No_Label,0
